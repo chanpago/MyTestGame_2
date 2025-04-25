@@ -30,3 +30,33 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio 관련
+.vs/
+*.sln
+*.suo
+*.vcxproj*
+*.user
+
+# 빌드와 임시 파일
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.log
+
+# 압축파일
+*.zip
+
+# 실행파일
+*.exe
+*.dll
+
+# 언리얼 자동 생성 파일
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# 기타 무시할 리소스
+*.png
+*.jpg
